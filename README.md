@@ -5,8 +5,11 @@ In the JavaScript file you will see where I have commented different requirement
 Sources used outside of class information:
 
 https://www.youtube.com/watch?v=9sT03jEwcaw
+
 https://www.youtube.com/watch?v=duNmhKgtcsI
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
 
 Special thanks to my tutor from wyzant.com
