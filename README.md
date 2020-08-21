@@ -1,3 +1,4 @@
+View working application here: https://brownjessa.github.io/JavascriptPasswordGenerator_HW3/
 This is a homework assignment where we use javascript to create a strong password generator.
 
 In the JavaScript file you will see where I have commented different requirements of the homework that are also found below.
